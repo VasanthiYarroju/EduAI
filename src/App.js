@@ -322,7 +322,7 @@ const App = () => {
           </div>
           
           <div className="footer-bottom">
-            <p>&copy; 2025 EduAI. Made with ❤️ by Vasanthi Yarroju</p>
+            <p>&copy; 2025 EduAI. Made with ❤️.</p>
           </div>
         </div>
       </footer>
